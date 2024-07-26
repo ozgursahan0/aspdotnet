@@ -210,3 +210,4 @@ C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\MyMvcApp\obj\Debug\net8.0\scopedcss
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\MyMvcApp\obj\Debug\net8.0\MyMvcApp.csproj.Up2Date
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\MyMvcApp\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\MyMvcApp\obj\Debug\net8.0\ref\MyMvcApp.dll
+c:\Users\Özgür\Desktop\aspdotnet\aspdotnet\MyMvcApp\obj\Debug\net8.0\MyMvcApp.sourcelink.json

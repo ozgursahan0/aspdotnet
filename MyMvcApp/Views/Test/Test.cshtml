@@ -1,0 +1,29 @@
+@model IEnumerable<Core.entities.Country>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Test Sayfası</title>
+</head>
+<body>
+    <h1>Test Sayfası</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Country Code</th>
+                <th>Country Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var country in Model)
+            {
+                <tr>
+                    <td>@country.CountryCode</td>
+                    <td>@country.CountryName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

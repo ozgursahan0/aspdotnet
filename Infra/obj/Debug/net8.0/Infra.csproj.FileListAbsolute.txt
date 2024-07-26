@@ -15,3 +15,4 @@ C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\Infra\obj\Debug\net8.0\refint\Infra
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\Infra\obj\Debug\net8.0\Infra.pdb
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
 C:\Users\Özgür\Desktop\aspdotnet\aspdotnet\Infra\obj\Debug\net8.0\ref\Infra.dll
+c:\Users\Özgür\Desktop\aspdotnet\aspdotnet\Infra\obj\Debug\net8.0\Infra.sourcelink.json

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Core.entities;  // Bu satırı eklediğinizden emin olun
+using Core.entities; // Model sınıflarınızın bulunduğu namespace
 
 namespace Infra.Data
 {
